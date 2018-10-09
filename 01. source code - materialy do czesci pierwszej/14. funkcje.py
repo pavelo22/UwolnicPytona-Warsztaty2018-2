@@ -9,7 +9,7 @@ do_nothing()
 
 # ta funkcja będzie wypisywać imię
 def print_name():
-    print("Tadek")
+    print("Szymek")
 
 # a tu wywołujemy funkcję
 print_name()

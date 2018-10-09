@@ -1,4 +1,4 @@
-sciezka = "08. listy.py"
+sciezka = "10. petla while.py"
 
 # otwieramy plik w trybie tekstowym, tylko do odczytu
 plik = open(sciezka, 'r')

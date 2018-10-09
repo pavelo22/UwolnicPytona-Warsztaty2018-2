@@ -1,5 +1,5 @@
 
-name = "KalaQfiory"
+name = "Kalafiory"
 
 samogloski = 0
 spolgloski = 0

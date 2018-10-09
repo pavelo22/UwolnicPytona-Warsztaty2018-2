@@ -4,7 +4,7 @@ def wypisz_dane(imie, nazwisko, kurs="Python", ilosc_dni=15):
     print(imie, nazwisko, kurs, ilosc_dni)
 
 # argumenty wymagane (inaczej: pozycyjne) muszą być podane
-wypisz_dane("Tadeusz", "K")
+wypisz_dane("Szymon", "K")
 
 # tutaj podajemy wszystkie wartości argumentów
 wypisz_dane("Jan", "Kowalski", "Java", 80)

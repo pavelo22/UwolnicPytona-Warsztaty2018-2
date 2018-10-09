@@ -1,6 +1,6 @@
 # otwieram swoj plik
 
-sciezka = "08. listy.py"
+sciezka = "10. petla while.py"
 plik = open(sciezka)
 
 # czytamy jedną linijkę z pliku
